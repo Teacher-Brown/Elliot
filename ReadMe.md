@@ -10,8 +10,6 @@ Every time you change your files and save them, GitHub Pages will update your si
 
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/) – learn the basics of web pages.  
 - [W3Schools CSS Tutorial](https://www.w3schools.com/css/) – learn how to style your page.  
-- [Replit](https://replit.com/~) – online code editor (if not blocked).  
-- [CodePen](https://codepen.io/) – try out small code experiments.  
 - [JSFiddle](https://jsfiddle.net/) – another place to test code.  
 
 ---
